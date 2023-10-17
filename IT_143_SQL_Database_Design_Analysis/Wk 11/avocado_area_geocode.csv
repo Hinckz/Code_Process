@@ -1,0 +1,55 @@
+area_id,area_name,area_type,city_resolve,state_resolve,zip_resolve,latitude,longitude
+1,Albany,city,Albany,NY,12201,42.614852,-73.970812
+2,Atlanta,city,Atlanta,GA,30301,33.844371,-84.47405
+3,BaltimoreWashington,city,Baltimore,MD,21201,39.295306,-76.62118
+4,Boise,city,Boise,ID,83701,43.603768,-116.272921
+5,Boston,city,Boston,MA,2101,42.370567,-71.026964
+6,BuffaloRochester,city,Buffalo,NY,14201,42.896407,-78.88515
+8,Charlotte,city,Charlotte,NC,28201,35.26002,-80.804151
+9,Chicago,city,Chicago,IL,60601,41.886456,-87.62325
+10,CincinnatiDayton,city,Cincinnati,OH,45201,39.166759,-84.53822
+11,Columbus,city,Columbus,OH,43085,40.097796,-83.02076
+12,DallasFtWorth,city,Dallas,TX,75201,32.787629,-96.79941
+13,Denver,city,Denver,CO,80201,39.726303,-104.856808
+14,Detroit,city,Detroit,MI,48201,42.343787,-83.05879
+15,GrandRapids,city,Grand Rapids,MI,49501,42.984226,-85.629101
+17,HarrisburgScranton,city,Harrisburg,PA,17101,40.261839,-76.88279
+18,HartfordSpringfield,city,Hartford,CT,6101,41.78007,-72.677099
+19,Houston,city,Houston,TX,77000,29.711257,-95.304936
+20,Indianapolis,city,Indianapolis,IN,46201,39.775125,-86.10839
+21,Jacksonville,city,Jacksonville,FL,32099,30.337538,-81.768622
+22,LasVegas,city,Las Vegas,NV,89101,36.17022,-115.12785
+23,LosAngeles,city,Los Angeles,CA,90001,33.972914,-118.24878
+24,Louisville,city,Louisville,KY,40201,38.188962,-85.676819
+25,MiamiFtLauderdale,city,Miami,FL,33101,25.779076,-80.19782
+27,Nashville,city,Nashville,TN,37201,36.164556,-86.77738
+28,NewOrleansMobile,city,New Orleans,LA,70112,29.956804,-90.07757
+29,NewYork,city,New York,NY,10001,40.750742,-73.99653
+32,Orlando,city,Orlando,FL,32801,28.541879,-81.37446
+33,Philadelphia,city,Philadelphia,PA,19019,40.001811,-75.11787
+34,PhoenixTucson,city,Phoenix,AZ,85001,33.703967,-112.351835
+35,Pittsburgh,city,Pittsburgh,PA,15201,40.471468,-79.95726
+37,Portland,city,Portland,OR,97201,45.49894,-122.68781
+38,RaleighGreensboro,city,Raleigh,NC,27561,35.898538,-78.738904
+39,RichmondNorfolk,city,Richmond,VA,23201,37.541106,-77.431825
+40,Roanoke,city,Roanoke,VA,24001,37.274175,-79.95786
+41,Sacramento,city,Sacramento,CA,94203,38.380456,-121.555406
+42,SanDiego,city,San Diego,CA,92101,32.719601,-117.16246
+43,SanFrancisco,city,San Francisco,CA,94101,37.784827,-122.727802
+44,Seattle,city,Seattle,WA,98060,47.432251,-121.803388
+48,Spokane,city,Spokane,WA,99201,47.663945,-117.43185
+49,StLouis,city,Saint Louis,MO,63101,38.631551,-90.193
+50,Syracuse,city,Syracuse,NY,13201,43.02143,-76.197701
+51,Tampa,city,Tampa,FL,33601,27.996097,-82.582035
+7,California,region,Fresno,CA,93650,36.841454,-119.79832
+16,GreatLakes,region,Madison,WI,53701,43.06956,-89.423861
+26,Midsouth,region,Jefferson City,MO,65101,38.535897,-92.13905
+30,Northeast,region,Concord,NH,3301,43.213705,-71.53774
+31,NorthernNewEngland,region,Augusta,ME,4330,44.344406,-69.76345
+36,Plains,region,Helena,MT,59601,46.588803,-112.04193
+45,SouthCarolina,region,Columbia,SC,29201,33.998454,-81.03519
+46,SouthCentral,region,Oklahoma City,OK,73101,35.491608,-97.562817
+47,Southeast,region,Jackson,MS,39201,32.292396,-90.18328
+52,TotalUS,region,Lebanon,KS,66952,39.835476,-98.58668
+53,West,region,Salt Lake City,UT,84101,40.754746,-111.89875
+54,WestTexNewMexico,region,Albuquerque,NM,87101,35.199592,-106.644831
